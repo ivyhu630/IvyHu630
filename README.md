@@ -2,7 +2,7 @@
 
 ![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyhu630&show_icons=true&theme=radical&hide=stars,issues)
 
-I am a fullstack software engineer from the Bay Area, CA.
+I am a full stack software engineer from the Bay Area, CA.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivyhu630/)
