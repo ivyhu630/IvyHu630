@@ -1,6 +1,6 @@
 ### 👋 Hello world, I'm Ivy Hu👋
 
-![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyhu630&show_icons=true&theme=radical&hide=stars,issues)
+<!-- ![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyhu630&show_icons=true&theme=radical&hide=stars,issues) -->
 
 I am a full stack software engineer from the Bay Area, CA.
 
